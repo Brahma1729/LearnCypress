@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "smoke": "npx cypress run --spec 'cypress/e2e/first.cy.js'"
+    "smoke": "npx cypress run --spec 'CyPress/cypress/e2e/first.cy.js'"
   },
   "author": "",
   "license": "ISC",
