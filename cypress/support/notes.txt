@@ -23,3 +23,5 @@ Running the cypress from Command Line Interface:
     npx cypress run --spec "Cypress/e2e/login.cy.js" --headed --no-exit --browser chrome  --> to run in a specific browser.
 
      "https://docs.cypress.io/guides/guides/command-line"  --> all flags mentioned at this link
+
+-------------------
